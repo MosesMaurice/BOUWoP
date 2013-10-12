@@ -1,0 +1,4 @@
+bou_wo_p:
+    resource: "@BOUWoPBundle/Resources/config/routing.yml"
+    prefix:   /
+

@@ -1,0 +1,3 @@
+bou_wo_p_homepage:
+    pattern:  /hello/{name}
+    defaults: { _controller: BOUWoPBundle:Default:index }

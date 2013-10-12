@@ -1,0 +1,7 @@
+parameters:
+#    bou_wo_p.example.class: BOU\WoPBundle\Example
+
+services:
+#    bou_wo_p.example:
+#        class: %bou_wo_p.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]
